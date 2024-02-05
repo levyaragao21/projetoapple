@@ -67,4 +67,36 @@ a {
   line-height: 1.3; 
   margin-bottom: 1rem; 
 } 
+.homeDescription { 
+  line-height: 1.6; 
+  font-family: "Roboto"; 
+  font-weight: 400; 
+  font-size: 18px; 
+  margin-bottom: 2.5rem; 
+  color: #323235; 
+} 
+.homeBuy { 
+  background-color: #0053a7; 
+  padding: 1rem 2rem; 
+  color: #fff; 
+  border-radius: 8px; 
+  font-weight: 500; 
+} 
+ 
+.homeLearn { 
+  border: 2.5px solid #0053a7; 
+  padding: 0.9rem 2rem; 
+  border-radius: 8px; 
+  margin-left: 1.8rem; 
+  color: #0053a7; 
+  font-weight: 500; 
+} 
 
+.homeLearn:hover { 
+  color: #fff; 
+  background-color: #0053a7; 
+} 
+ 
+.homeBuy:hover { 
+  background-color: #024385; 
+} 
